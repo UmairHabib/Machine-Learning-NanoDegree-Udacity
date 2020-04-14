@@ -1,0 +1,1 @@
+In this example, I have used Support Vector Machine for classification of continuous data by the ue of SkLearn library. Firstly, we fitted our model and took prediction on test data along with accuracy of 1.

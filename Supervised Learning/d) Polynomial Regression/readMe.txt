@@ -1,0 +1,1 @@
+In this example, I have fitted a line using Polynomial regression with a degree 4. For this example, our dataset has X and Y values along with non-linear relationship. We have extracted features from dataset first using PolynomialFeatures and than we applied our LinearRegression module without any intercept.

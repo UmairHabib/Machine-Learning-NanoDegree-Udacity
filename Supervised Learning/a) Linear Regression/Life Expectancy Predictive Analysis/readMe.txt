@@ -1,0 +1,1 @@
+In this example, I have done predictive analysis on the life expectancy of a person by the use of BMI (Body Mass Index). I have used BMI which is derived from mass and  height of a person.Our dataset is from GapMinder which includes country, BMI and their respective life expectancies of males.
