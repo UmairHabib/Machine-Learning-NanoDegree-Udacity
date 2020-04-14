@@ -1,0 +1,1 @@
+In this example, we will perform L1 regularization to avoid complexity and gain our generalized model. In our dataset, we have 6 predictors and 1 last column as output values. We will use Lasso class instead of LinearRegression from sklearn for regularization.

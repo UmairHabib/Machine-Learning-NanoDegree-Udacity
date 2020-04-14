@@ -1,0 +1,1 @@
+In this example, I have used Gradient Descent to compute Mean Squared Error. I have taken a dataset which includes some X and Y axis. And have shown the plot, that how a line is converging toward center of dataset with minimum errors.
